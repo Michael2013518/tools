@@ -9,7 +9,7 @@ const router = express.Router()
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 
-//cors配置：https://www.npmjs.com/package/cors
+// cors配置：https://www.npmjs.com/package/cors
 app.use(cors())
 
 app.get('/', (request, response) => {

@@ -79,3 +79,5 @@
     //访问域名：https://sandbox.micaven.com
     //更改本地文件，确认接口响应信息
 ```
+
+补充知识： nodejs，express框架搭建应用；nginx配置；ssl证书申请和配置
